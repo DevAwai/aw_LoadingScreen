@@ -13,3 +13,4 @@
     - Télécharger le dossier .ZIP à l'aide de guithub
     - Placer les fichiers dans vos ressources du serveur
     - Démarrer la ressource dans le server.cfg
+    - Profiter de votre magnifique loading screen !
